@@ -1,4 +1,4 @@
-# Test-chatGPT-APIk
+# Test-chatGPT-API
 
 In order to make this work locally you can start an environment with virtualenv or with conda, after activating your environment you should execute the next command in your prefered terminal:
 
